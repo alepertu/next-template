@@ -1,4 +1,4 @@
-Custom Next.js@13 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
+Custom Next.js@13 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Dependencies managed by Yarn@Berry, no installs required.
 
