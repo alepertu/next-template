@@ -1,6 +1,7 @@
 import { render, screen } from '@testing-library/react';
-import App from '@/app/page';
 import '@testing-library/jest-dom';
+
+import App from '@/app/page';
 
 // !FIXME Write proper tests
 describe('Home', () => {
