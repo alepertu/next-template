@@ -1,13 +1,17 @@
 {
   "name": "@alepertu/next-template",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest --watch",
+    "lint:strict": "eslint --max-warnings=0 src",
+    "typecheck": "tsc --noEmit --incremental false",
+    "format:check": "prettier -c .",
+    "test": "jest",
+    "test:watch": "jest --watch",
     "prepare": "husky install"
   },
   "dependencies": {
