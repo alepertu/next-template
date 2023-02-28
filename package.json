@@ -1,6 +1,6 @@
 {
   "name": "@alepertu/next-template",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -44,11 +44,11 @@
   },
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": [
-      "eslint --max-warnings=0",
-      "prettier -w"
+      "yarn dlx eslint --max-warnings=0",
+      "yarn dlx prettier -w"
     ],
     "**/*.{json,css,scss,md,webmanifest}": [
-      "prettier -w"
+      "yarn dlx prettier -w"
     ]
   }
 }
