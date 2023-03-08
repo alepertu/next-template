@@ -1,6 +1,6 @@
 {
   "name": "@alepertu/next-template",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -15,13 +15,9 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@types/node": "18.14.2",
-    "@types/react": "18.0.28",
-    "@types/react-dom": "18.0.11",
     "next": "13.2.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "4.9.5"
+    "react-dom": "18.2.0"
   },
   "packageManager": "yarn@3.4.1",
   "devDependencies": {
@@ -30,6 +26,9 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.4.0",
+    "@types/node": "18.14.2",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
     "@types/testing-library__jest-dom": "^5.14.5",
     "@typescript-eslint/eslint-plugin": "^5.54.0",
     "@typescript-eslint/parser": "^5.54.0",
@@ -46,15 +45,16 @@
     "postcss": "^8.4.21",
     "prettier": "^2.8.4",
     "prettier-plugin-tailwindcss": "^0.2.3",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "typescript": "4.9.5"
   },
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": [
-      "yarn dlx eslint --max-warnings=0",
-      "yarn dlx prettier -w"
+      "yarn eslint --max-warnings=0",
+      "yarn prettier -w"
     ],
     "**/*.{json,css,scss,md,webmanifest}": [
-      "yarn dlx prettier -w"
+      "yarn prettier -w"
     ]
   }
 }
