@@ -111,7 +111,6 @@ Runs Jest tests on watch mode, updating on each file change.
 - /.github/workflows - Contains files regarding Github Actions.
   - create-branch.yml - Action that automates branch creation when an Issue is opened. Triggers on Issue.
   - lint.yml - Action that performs various tasks over the src folder: it runs ESLint, type checks, formats with Prettier and runs tests with Jest. Triggers on push to main.
-  - release-please.yml - Action that integrates Google's [release-please](https://github.com/googleapis/release-please) to the workflow, automating releases, changelog, etc.
 - /.husky - Contains Husky commit hooks
   - /\_ - Husky base files
   - commit-msg - Runs [commitlint](https://github.com/conventional-changelog/commitlint) on each commit, this enforces the [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) format.
