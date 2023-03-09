@@ -1,6 +1,8 @@
+# next-template
+
 Custom Next.js 13 Typescript project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Includes TailwindCSS for styles, Jest for testing. Prettier, ESLint, Husky and Github Actions pre configured.
 
-Deps managed by Yarn@Berry, no installs required.
+Deps managed by Yarn Berry, no installs required.
 
 ## Getting Started
 
@@ -10,13 +12,99 @@ Fork and get going. Run the development server:
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-Edit src/app/page.tsx to change the initial page.
+Edit src/app/page.tsx and open [http://localhost:3000](http://localhost:3000) to see the result.
 
 ## Configuration
 
 Search for !FIXME comments and customize the template.
+
+## Included packages
+
+### React 18
+
+A JavaScript library for building user interfaces. See [v18 docs](https://beta.reactjs.org/).
+
+### Next.js 13
+
+React framework that extends its functionality. See [v13 docs](https://nextjs.org/docs). This project uses the experimental app folder and server components.
+
+### Typescript 4.9
+
+TypeScript turns JavaScript in a strongly typed programming language. See [v4.9 docs](https://www.typescriptlang.org/docs/).
+
+### TailwindCSS 3
+
+A CSS framework that allows styling directly using classes in the markup. See [v3 docs](https://tailwindcss.com/docs/installation).
+
+### Jest 29
+
+A JavaScript Testing Framework. See [v29 docs](https://jestjs.io/docs/getting-started). testing-library allows testing React components via Jest. See [testing-library-react docs](https://testing-library.com/docs/react-testing-library/intro/).
+
+### Prettier & ESLint
+
+Prettier is a code formatter that helps mantaining code clean. See [Prettier docs](https://prettier.io/docs/en/index.html). ESLint analyzes code searching for errors, problems and bad practices. See [ESLint docs](https://eslint.org/docs/latest/use/getting-started).
+
+### Husky, lint-staged & commitlint
+
+Husky runs Git Hooks on different git operations. See [Husky docs](https://typicode.github.io/husky/#/?id=features).
+lint-staged runs linters and formatters on commit.
+commitlint enforces conventional commit messages.
+
+## Yarn Scripts
+
+```bash
+yarn dev
+```
+
+Runs Next.js dev server.
+
+```bash
+yarn build
+```
+
+Runs Next.js compiler.
+
+```bash
+yarn start
+```
+
+Runs Next.js server from the optimized build output.
+
+```bash
+yarn lint
+```
+
+Runs ESLint and throws warnings.
+
+```bash
+yarn lint:strict
+```
+
+Runs ESLint and aborts with errors on a warning.
+
+```bash
+yarn typecheck
+```
+
+Runs Typescript with no output or cached files, typechecking the project from scratch and aborting on error.
+
+```bash
+yarn format:check
+```
+
+Runs Prettier to check if files are formatted correctly.
+
+```bash
+yarn test
+```
+
+Runs Jest tests.
+
+```bash
+yarn test:watch
+```
+
+Runs Jest tests on watch mode, updating on each file change.
 
 ## File and folder structure
 
