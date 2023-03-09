@@ -9,8 +9,8 @@
     "lint": "next lint",
     "lint:strict": "eslint --max-warnings=0 src",
     "typecheck": "tsc --noEmit --incremental false",
-    "format": "prettier .",
-    "format:check": "prettier -c .",
+    "format": "prettier -w --cache-location=./prettier/cache .",
+    "format:check": "prettier -c --cache-location=./prettier/cache .",
     "test": "jest",
     "test:watch": "jest --watch",
     "postinstall": "husky install",
@@ -55,10 +55,10 @@
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": [
       "yarn eslint --max-warnings=0",
-      "yarn prettier -w"
+      "yarn prettier -w --cache-location=./prettier/cache"
     ],
     "**/*.{json,css,scss,md,webmanifest}": [
-      "yarn prettier -w"
+      "yarn prettier -w --cache-location=./prettier/cache"
     ]
   }
 }
