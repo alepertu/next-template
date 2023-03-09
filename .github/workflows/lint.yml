@@ -59,5 +59,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+      - name: Add deps
+        run: yarn
       - name: Run jest
         run: yarn test
