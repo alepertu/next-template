@@ -50,6 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.4.3"],\
             ["lint-staged", "npm:13.1.2"],\
             ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:13.2.1"],\
+            ["pinst", "npm:3.0.0"],\
             ["postcss", "npm:8.4.21"],\
             ["prettier", "npm:2.8.4"],\
             ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.2.3"],\
@@ -97,6 +98,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-environment-jsdom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.4.3"],\
             ["lint-staged", "npm:13.1.2"],\
             ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:13.2.1"],\
+            ["pinst", "npm:3.0.0"],\
             ["postcss", "npm:8.4.21"],\
             ["prettier", "npm:2.8.4"],\
             ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.2.3"],\
@@ -7880,6 +7882,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/pify-npm-2.3.0-8b63310934-9503aaeaf4.zip/node_modules/pify/",\
           "packageDependencies": [\
             ["pify", "npm:2.3.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["pinst", [\
+        ["npm:3.0.0", {\
+          "packageLocation": "./.yarn/cache/pinst-npm-3.0.0-5d2b6c1dda-4ae48a6a60.zip/node_modules/pinst/",\
+          "packageDependencies": [\
+            ["pinst", "npm:3.0.0"]\
           ],\
           "linkType": "HARD"\
         }]\

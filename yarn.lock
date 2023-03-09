@@ -38,6 +38,7 @@ __metadata:
     jest-environment-jsdom: ^29.4.3
     lint-staged: ^13.1.2
     next: 13.2.1
+    pinst: ^3.0.0
     postcss: ^8.4.21
     prettier: ^2.8.4
     prettier-plugin-tailwindcss: ^0.2.3
@@ -6348,6 +6349,15 @@ __metadata:
   version: 2.3.0
   resolution: "pify@npm:2.3.0"
   checksum: 9503aaeaf4577acc58642ad1d25c45c6d90288596238fb68f82811c08104c800e5a7870398e9f015d82b44ecbcbef3dc3d4251a1cbb582f6e5959fe09884b2ba
+  languageName: node
+  linkType: hard
+
+"pinst@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "pinst@npm:3.0.0"
+  bin:
+    pinst: bin.js
+  checksum: 4ae48a6a60f79c37071233af51b4d91bfc85cfa3c12b66ccda60cdb642b4d14a4ab0cb3587afc55b1f6192cea1772a5e4822026a0d0d3528296edef00cc2d61f
   languageName: node
   linkType: hard
 
