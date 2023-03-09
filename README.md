@@ -89,6 +89,12 @@ yarn typecheck
 Runs Typescript with no output or cached files, typechecking the project from scratch and aborting on error.
 
 ```bash
+yarn format
+```
+
+Runs Prettier and formats every file.
+
+```bash
 yarn format:check
 ```
 
@@ -157,5 +163,6 @@ Runs Jest tests on watch mode, updating on each file change.
 - package.json - Project's Manifest.
 - postcss.config.js - Holds the configuration for postcss, used by TailwindCSS.
 - README.md - This file.
+- renovate.json - Holds the configuration for Github bot Renovate.
 - tailwind.config.js - Holds the configuration for TailwindCSS.
 - yarn.lock - Yarn's lockfile.
