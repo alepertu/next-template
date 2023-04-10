@@ -41,7 +41,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/eslint-plugin", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:5.57.1"],\
             ["@typescript-eslint/parser", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:5.57.1"],\
             ["autoprefixer", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.4.14"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-config-next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:13.2.4"],\
             ["eslint-config-prettier", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:8.8.0"],\
             ["eslint-plugin-simple-import-sort", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.0.0"],\
@@ -90,7 +90,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/eslint-plugin", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:5.57.1"],\
             ["@typescript-eslint/parser", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:5.57.1"],\
             ["autoprefixer", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.4.14"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-config-next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:13.2.4"],\
             ["eslint-config-prettier", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:8.8.0"],\
             ["eslint-plugin-simple-import-sort", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.0.0"],\
@@ -1138,12 +1138,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:662100842a01f22e4884c53947ff3c835cfa610bc0302aa718d92c79c197b8d7a4529f512f843ab15d1ae9637360e6549918eab5fe7f0237430b928365312129#npm:4.2.0", {\
-          "packageLocation": "./.yarn/__virtual__/@eslint-community-eslint-utils-virtual-325838e35a/0/cache/@eslint-community-eslint-utils-npm-4.2.0-434cf92d50-82fdd1cc2a.zip/node_modules/@eslint-community/eslint-utils/",\
+        ["virtual:552d805c27b911879922fd6c8c62e8f7010a3e090fad5de06affada0215e4ae9d87b903dce7c72619378bf8ec151c34a4cdebd9f2c85e5867b8ae93c0c5e75be#npm:4.2.0", {\
+          "packageLocation": "./.yarn/__virtual__/@eslint-community-eslint-utils-virtual-05ec438a63/0/cache/@eslint-community-eslint-utils-npm-4.2.0-434cf92d50-82fdd1cc2a.zip/node_modules/@eslint-community/eslint-utils/",\
           "packageDependencies": [\
-            ["@eslint-community/eslint-utils", "virtual:662100842a01f22e4884c53947ff3c835cfa610bc0302aa718d92c79c197b8d7a4529f512f843ab15d1ae9637360e6549918eab5fe7f0237430b928365312129#npm:4.2.0"],\
+            ["@eslint-community/eslint-utils", "virtual:552d805c27b911879922fd6c8c62e8f7010a3e090fad5de06affada0215e4ae9d87b903dce7c72619378bf8ec151c34a4cdebd9f2c85e5867b8ae93c0c5e75be#npm:4.2.0"],\
             ["@types/eslint", null],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-visitor-keys", "npm:3.3.0"]\
           ],\
           "packagePeers": [\
@@ -1181,10 +1181,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@eslint/js", [\
-        ["npm:8.37.0", {\
-          "packageLocation": "./.yarn/cache/@eslint-js-npm-8.37.0-9ecead4a75-7a07fb085c.zip/node_modules/@eslint/js/",\
+        ["npm:8.38.0", {\
+          "packageLocation": "./.yarn/cache/@eslint-js-npm-8.38.0-886fbc629f-1f28987aa8.zip/node_modules/@eslint/js/",\
           "packageDependencies": [\
-            ["@eslint/js", "npm:8.37.0"]\
+            ["@eslint/js", "npm:8.38.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2275,7 +2275,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/type-utils", "virtual:a273f283d29026397947a6c423578d785ca97227f2eac25ab0e0381a14498210812fa193d5545b566bbfb9565f69efe7dfaaf79e7b96d1bf9e81197fd8467e94#npm:5.57.1"],\
             ["@typescript-eslint/utils", "virtual:a273f283d29026397947a6c423578d785ca97227f2eac25ab0e0381a14498210812fa193d5545b566bbfb9565f69efe7dfaaf79e7b96d1bf9e81197fd8467e94#npm:5.57.1"],\
             ["debug", "virtual:d308674d86394045a3178d86fc0909ad49c0ac9801ba12776e517bdaf3dfe3537e24a9c79fd8f2bd15e4a7d8be7fae6252874fd98e2dbd2728333f46ec685014#npm:4.3.4"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["grapheme-splitter", "npm:1.0.4"],\
             ["ignore", "npm:5.2.4"],\
             ["natural-compare-lite", "npm:1.4.0"],\
@@ -2319,7 +2319,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/types", "npm:5.54.1"],\
             ["@typescript-eslint/typescript-estree", "virtual:71149ef36153138e01da46bbfcfd922a05c525be05adcde8808075de129d8011e67146c6bacc02a26c1102ee50f1dcb4e5f5177ebe1da5643d0659ab5d3fc93e#npm:5.54.1"],\
             ["debug", "virtual:d308674d86394045a3178d86fc0909ad49c0ac9801ba12776e517bdaf3dfe3537e24a9c79fd8f2bd15e4a7d8be7fae6252874fd98e2dbd2728333f46ec685014#npm:4.3.4"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
           ],\
           "packagePeers": [\
@@ -2340,7 +2340,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/types", "npm:5.57.1"],\
             ["@typescript-eslint/typescript-estree", "virtual:83618757a57622337955b5d4fd41cca89f2fbe2e699901dd966960adee42d663f166c5863770b2fdb838132516fad54b292b122abf1ce1f1e4aaf4869bb92f25#npm:5.57.1"],\
             ["debug", "virtual:d308674d86394045a3178d86fc0909ad49c0ac9801ba12776e517bdaf3dfe3537e24a9c79fd8f2bd15e4a7d8be7fae6252874fd98e2dbd2728333f46ec685014#npm:4.3.4"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
           ],\
           "packagePeers": [\
@@ -2389,7 +2389,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/typescript-estree", "virtual:83618757a57622337955b5d4fd41cca89f2fbe2e699901dd966960adee42d663f166c5863770b2fdb838132516fad54b292b122abf1ce1f1e4aaf4869bb92f25#npm:5.57.1"],\
             ["@typescript-eslint/utils", "virtual:a273f283d29026397947a6c423578d785ca97227f2eac25ab0e0381a14498210812fa193d5545b566bbfb9565f69efe7dfaaf79e7b96d1bf9e81197fd8467e94#npm:5.57.1"],\
             ["debug", "virtual:d308674d86394045a3178d86fc0909ad49c0ac9801ba12776e517bdaf3dfe3537e24a9c79fd8f2bd15e4a7d8be7fae6252874fd98e2dbd2728333f46ec685014#npm:4.3.4"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["tsutils", "virtual:a273f283d29026397947a6c423578d785ca97227f2eac25ab0e0381a14498210812fa193d5545b566bbfb9565f69efe7dfaaf79e7b96d1bf9e81197fd8467e94#npm:3.21.0"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
           ],\
@@ -2506,14 +2506,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/@typescript-eslint-utils-virtual-62ff4ee8a8/0/cache/@typescript-eslint-utils-npm-5.57.1-4d565a9c7c-12e55144c8.zip/node_modules/@typescript-eslint/utils/",\
           "packageDependencies": [\
             ["@typescript-eslint/utils", "virtual:a273f283d29026397947a6c423578d785ca97227f2eac25ab0e0381a14498210812fa193d5545b566bbfb9565f69efe7dfaaf79e7b96d1bf9e81197fd8467e94#npm:5.57.1"],\
-            ["@eslint-community/eslint-utils", "virtual:662100842a01f22e4884c53947ff3c835cfa610bc0302aa718d92c79c197b8d7a4529f512f843ab15d1ae9637360e6549918eab5fe7f0237430b928365312129#npm:4.2.0"],\
+            ["@eslint-community/eslint-utils", "virtual:552d805c27b911879922fd6c8c62e8f7010a3e090fad5de06affada0215e4ae9d87b903dce7c72619378bf8ec151c34a4cdebd9f2c85e5867b8ae93c0c5e75be#npm:4.2.0"],\
             ["@types/eslint", null],\
             ["@types/json-schema", "npm:7.0.11"],\
             ["@types/semver", "npm:7.3.13"],\
             ["@typescript-eslint/scope-manager", "npm:5.57.1"],\
             ["@typescript-eslint/types", "npm:5.57.1"],\
             ["@typescript-eslint/typescript-estree", "virtual:62ff4ee8a8537e4f1ddd194e447a4d4bec7e25d9739d5bddf163d13877e46d002df294e128c07fcc10a3d6661d18a0955a5956a3c3d4097f0bba862fec60cf5d#npm:5.57.1"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-scope", "npm:5.1.1"],\
             ["semver", "npm:7.3.8"]\
           ],\
@@ -4297,14 +4297,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["eslint", [\
-        ["npm:8.37.0", {\
-          "packageLocation": "./.yarn/cache/eslint-npm-8.37.0-662100842a-80f3d5cdce.zip/node_modules/eslint/",\
+        ["npm:8.38.0", {\
+          "packageLocation": "./.yarn/cache/eslint-npm-8.38.0-552d805c27-73b6d9b650.zip/node_modules/eslint/",\
           "packageDependencies": [\
-            ["eslint", "npm:8.37.0"],\
-            ["@eslint-community/eslint-utils", "virtual:662100842a01f22e4884c53947ff3c835cfa610bc0302aa718d92c79c197b8d7a4529f512f843ab15d1ae9637360e6549918eab5fe7f0237430b928365312129#npm:4.2.0"],\
+            ["eslint", "npm:8.38.0"],\
+            ["@eslint-community/eslint-utils", "virtual:552d805c27b911879922fd6c8c62e8f7010a3e090fad5de06affada0215e4ae9d87b903dce7c72619378bf8ec151c34a4cdebd9f2c85e5867b8ae93c0c5e75be#npm:4.2.0"],\
             ["@eslint-community/regexpp", "npm:4.4.0"],\
             ["@eslint/eslintrc", "npm:2.0.2"],\
-            ["@eslint/js", "npm:8.37.0"],\
+            ["@eslint/js", "npm:8.38.0"],\
             ["@humanwhocodes/config-array", "npm:0.11.8"],\
             ["@humanwhocodes/module-importer", "npm:1.0.1"],\
             ["@nodelib/fs.walk", "npm:1.2.8"],\
@@ -4362,7 +4362,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/eslint", null],\
             ["@types/typescript", null],\
             ["@typescript-eslint/parser", "virtual:6c543b84808c32d3989dccac48f476d2d8847ba92a25123c23a8201aa210379adeb7f4fad917a7a34c7b8428f304c26adaf430524ef8f9a82a30005aeea0b1a1#npm:5.54.1"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-import-resolver-node", "npm:0.3.7"],\
             ["eslint-import-resolver-typescript", "virtual:6c543b84808c32d3989dccac48f476d2d8847ba92a25123c23a8201aa210379adeb7f4fad917a7a34c7b8428f304c26adaf430524ef8f9a82a30005aeea0b1a1#npm:3.5.3"],\
             ["eslint-plugin-import", "virtual:6c543b84808c32d3989dccac48f476d2d8847ba92a25123c23a8201aa210379adeb7f4fad917a7a34c7b8428f304c26adaf430524ef8f9a82a30005aeea0b1a1#npm:2.27.5"],\
@@ -4393,7 +4393,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["eslint-config-prettier", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:8.8.0"],\
             ["@types/eslint", null],\
-            ["eslint", "npm:8.37.0"]\
+            ["eslint", "npm:8.38.0"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -4430,7 +4430,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/eslint-plugin-import", null],\
             ["debug", "virtual:d308674d86394045a3178d86fc0909ad49c0ac9801ba12776e517bdaf3dfe3537e24a9c79fd8f2bd15e4a7d8be7fae6252874fd98e2dbd2728333f46ec685014#npm:4.3.4"],\
             ["enhanced-resolve", "npm:5.12.0"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-plugin-import", "virtual:6c543b84808c32d3989dccac48f476d2d8847ba92a25123c23a8201aa210379adeb7f4fad917a7a34c7b8428f304c26adaf430524ef8f9a82a30005aeea0b1a1#npm:2.27.5"],\
             ["get-tsconfig", "npm:4.4.0"],\
             ["globby", "npm:13.1.3"],\
@@ -4466,7 +4466,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/typescript-eslint__parser", null],\
             ["@typescript-eslint/parser", "virtual:6c543b84808c32d3989dccac48f476d2d8847ba92a25123c23a8201aa210379adeb7f4fad917a7a34c7b8428f304c26adaf430524ef8f9a82a30005aeea0b1a1#npm:5.54.1"],\
             ["debug", "virtual:65bed195431eadffc59e2238eb20cc12d9a1665bc7458ce780a9320ff795091b03cb5c4c2094938315ddd967b5b02c0f1df67b3ed435c69b7457092b7cc06ed8#npm:3.2.7"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-import-resolver-node", "npm:0.3.7"],\
             ["eslint-import-resolver-typescript", null],\
             ["eslint-import-resolver-webpack", null]\
@@ -4506,7 +4506,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["array.prototype.flatmap", "npm:1.3.1"],\
             ["debug", "virtual:65bed195431eadffc59e2238eb20cc12d9a1665bc7458ce780a9320ff795091b03cb5c4c2094938315ddd967b5b02c0f1df67b3ed435c69b7457092b7cc06ed8#npm:3.2.7"],\
             ["doctrine", "npm:2.1.0"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-import-resolver-node", "npm:0.3.7"],\
             ["eslint-module-utils", "virtual:9ff7bdb332424db2cb6190202ab01e5166f6a17575a0302a10a198e3bdc0c7855e47f3c861d58dc935e396bf524f303c67ba4023e466b8b144f3141f4bda391b#npm:2.7.4"],\
             ["has", "npm:1.0.3"],\
@@ -4549,7 +4549,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["axobject-query", "npm:3.1.1"],\
             ["damerau-levenshtein", "npm:1.0.8"],\
             ["emoji-regex", "npm:9.2.2"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["has", "npm:1.0.3"],\
             ["jsx-ast-utils", "npm:3.3.3"],\
             ["language-tags", "npm:1.0.5"],\
@@ -4582,7 +4582,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["array.prototype.flatmap", "npm:1.3.1"],\
             ["array.prototype.tosorted", "npm:1.1.1"],\
             ["doctrine", "npm:2.1.0"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["estraverse", "npm:5.3.0"],\
             ["jsx-ast-utils", "npm:3.3.3"],\
             ["minimatch", "npm:3.1.2"],\
@@ -4615,7 +4615,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["eslint-plugin-react-hooks", "virtual:6c543b84808c32d3989dccac48f476d2d8847ba92a25123c23a8201aa210379adeb7f4fad917a7a34c7b8428f304c26adaf430524ef8f9a82a30005aeea0b1a1#npm:4.6.0"],\
             ["@types/eslint", null],\
-            ["eslint", "npm:8.37.0"]\
+            ["eslint", "npm:8.38.0"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -4637,7 +4637,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["eslint-plugin-simple-import-sort", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.0.0"],\
             ["@types/eslint", null],\
-            ["eslint", "npm:8.37.0"]\
+            ["eslint", "npm:8.38.0"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -4661,7 +4661,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/eslint", null],\
             ["@types/typescript-eslint__eslint-plugin", null],\
             ["@typescript-eslint/eslint-plugin", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:5.57.1"],\
-            ["eslint", "npm:8.37.0"],\
+            ["eslint", "npm:8.38.0"],\
             ["eslint-rule-composer", "npm:0.3.0"]\
           ],\
           "packagePeers": [\
