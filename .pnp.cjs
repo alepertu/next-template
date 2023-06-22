@@ -52,7 +52,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lint-staged", "npm:13.2.2"],\
             ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:13.4.7"],\
             ["pinst", "npm:3.0.0"],\
-            ["postcss", "npm:8.4.23"],\
+            ["postcss", "npm:8.4.24"],\
             ["prettier", "npm:2.8.8"],\
             ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.3.0"],\
             ["react", "npm:18.2.0"],\
@@ -101,7 +101,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lint-staged", "npm:13.2.2"],\
             ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:13.4.7"],\
             ["pinst", "npm:3.0.0"],\
-            ["postcss", "npm:8.4.23"],\
+            ["postcss", "npm:8.4.24"],\
             ["prettier", "npm:2.8.8"],\
             ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.3.0"],\
             ["react", "npm:18.2.0"],\
@@ -2832,7 +2832,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fraction.js", "npm:4.2.0"],\
             ["normalize-range", "npm:0.1.2"],\
             ["picocolors", "npm:1.0.0"],\
-            ["postcss", "npm:8.4.23"],\
+            ["postcss", "npm:8.4.24"],\
             ["postcss-value-parser", "npm:4.2.0"]\
           ],\
           "packagePeers": [\
@@ -8005,16 +8005,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["postcss", "npm:8.4.14"],\
             ["nanoid", "npm:3.3.4"],\
-            ["picocolors", "npm:1.0.0"],\
-            ["source-map-js", "npm:1.0.2"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:8.4.23", {\
-          "packageLocation": "./.yarn/cache/postcss-npm-8.4.23-d4a02a832d-8bb9d1b2ea.zip/node_modules/postcss/",\
-          "packageDependencies": [\
-            ["postcss", "npm:8.4.23"],\
-            ["nanoid", "npm:3.3.6"],\
             ["picocolors", "npm:1.0.0"],\
             ["source-map-js", "npm:1.0.2"]\
           ],\
