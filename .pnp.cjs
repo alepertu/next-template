@@ -31,7 +31,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:17.7.2"],\
             ["@commitlint/config-conventional", "npm:17.7.0"],\
             ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.6"],\
-            ["@testing-library/jest-dom", "npm:5.17.0"],\
+            ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.3"],\
             ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.0.0"],\
             ["@types/jest", "npm:29.5.5"],\
             ["@types/node", "npm:18.18.4"],\
@@ -73,10 +73,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@adobe/css-tools", [\
-        ["npm:4.2.0", {\
-          "packageLocation": "./.yarn/cache/@adobe-css-tools-npm-4.2.0-26da6de88a-dc5cc92ba3.zip/node_modules/@adobe/css-tools/",\
+        ["npm:4.3.1", {\
+          "packageLocation": "./.yarn/cache/@adobe-css-tools-npm-4.3.1-8afe87e987-ad43456379.zip/node_modules/@adobe/css-tools/",\
           "packageDependencies": [\
-            ["@adobe/css-tools", "npm:4.2.0"]\
+            ["@adobe/css-tools", "npm:4.3.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -89,7 +89,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:17.7.2"],\
             ["@commitlint/config-conventional", "npm:17.7.0"],\
             ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.6"],\
-            ["@testing-library/jest-dom", "npm:5.17.0"],\
+            ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.3"],\
             ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.0.0"],\
             ["@types/jest", "npm:29.5.5"],\
             ["@types/node", "npm:18.18.4"],\
@@ -1920,19 +1920,39 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@testing-library/jest-dom", [\
-        ["npm:5.17.0", {\
-          "packageLocation": "./.yarn/cache/@testing-library-jest-dom-npm-5.17.0-a702605ee4-9f28dbca8b.zip/node_modules/@testing-library/jest-dom/",\
+        ["npm:6.1.3", {\
+          "packageLocation": "./.yarn/cache/@testing-library-jest-dom-npm-6.1.3-b27b065d9a-5bd14ba31f.zip/node_modules/@testing-library/jest-dom/",\
           "packageDependencies": [\
-            ["@testing-library/jest-dom", "npm:5.17.0"],\
-            ["@adobe/css-tools", "npm:4.2.0"],\
+            ["@testing-library/jest-dom", "npm:6.1.3"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.3", {\
+          "packageLocation": "./.yarn/__virtual__/@testing-library-jest-dom-virtual-ef6ea6e4dd/0/cache/@testing-library-jest-dom-npm-6.1.3-b27b065d9a-5bd14ba31f.zip/node_modules/@testing-library/jest-dom/",\
+          "packageDependencies": [\
+            ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.3"],\
+            ["@adobe/css-tools", "npm:4.3.1"],\
             ["@babel/runtime", "npm:7.21.0"],\
-            ["@types/testing-library__jest-dom", "npm:5.14.9"],\
+            ["@jest/globals", null],\
+            ["@types/jest", "npm:29.5.5"],\
+            ["@types/jest__globals", null],\
+            ["@types/vitest", null],\
             ["aria-query", "npm:5.1.3"],\
             ["chalk", "npm:3.0.0"],\
             ["css.escape", "npm:1.5.1"],\
             ["dom-accessibility-api", "npm:0.5.16"],\
+            ["jest", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
             ["lodash", "npm:4.17.21"],\
-            ["redent", "npm:3.0.0"]\
+            ["redent", "npm:3.0.0"],\
+            ["vitest", null]\
+          ],\
+          "packagePeers": [\
+            "@jest/globals",\
+            "@types/jest",\
+            "@types/jest__globals",\
+            "@types/vitest",\
+            "jest",\
+            "vitest"\
           ],\
           "linkType": "HARD"\
         }]\
