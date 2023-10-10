@@ -31,7 +31,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:17.7.2"],\
             ["@commitlint/config-conventional", "npm:17.7.0"],\
             ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.6"],\
-            ["@testing-library/jest-dom", "npm:5.16.5"],\
+            ["@testing-library/jest-dom", "npm:5.17.0"],\
             ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.0.0"],\
             ["@types/jest", "npm:29.5.5"],\
             ["@types/node", "npm:18.18.4"],\
@@ -89,7 +89,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@commitlint/cli", "npm:17.7.2"],\
             ["@commitlint/config-conventional", "npm:17.7.0"],\
             ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.6"],\
-            ["@testing-library/jest-dom", "npm:5.16.5"],\
+            ["@testing-library/jest-dom", "npm:5.17.0"],\
             ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.0.0"],\
             ["@types/jest", "npm:29.5.5"],\
             ["@types/node", "npm:18.18.4"],\
@@ -1920,10 +1920,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@testing-library/jest-dom", [\
-        ["npm:5.16.5", {\
-          "packageLocation": "./.yarn/cache/@testing-library-jest-dom-npm-5.16.5-b6d1f4e02f-94911f901a.zip/node_modules/@testing-library/jest-dom/",\
+        ["npm:5.17.0", {\
+          "packageLocation": "./.yarn/cache/@testing-library-jest-dom-npm-5.17.0-a702605ee4-9f28dbca8b.zip/node_modules/@testing-library/jest-dom/",\
           "packageDependencies": [\
-            ["@testing-library/jest-dom", "npm:5.16.5"],\
+            ["@testing-library/jest-dom", "npm:5.17.0"],\
             ["@adobe/css-tools", "npm:4.2.0"],\
             ["@babel/runtime", "npm:7.21.0"],\
             ["@types/testing-library__jest-dom", "npm:5.14.9"],\
