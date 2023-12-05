@@ -33,7 +33,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.10"],\
           ["@types/node", "npm:20.10.3"],\
-          ["@types/react", "npm:18.2.38"],\
+          ["@types/react", "npm:18.2.42"],\
           ["@types/react-dom", "npm:18.2.17"],\
           ["@types/testing-library__jest-dom", "npm:5.14.9"],\
           ["@typescript-eslint/eslint-plugin", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.13.2"],\
@@ -91,7 +91,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.10"],\
           ["@types/node", "npm:20.10.3"],\
-          ["@types/react", "npm:18.2.38"],\
+          ["@types/react", "npm:18.2.42"],\
           ["@types/react-dom", "npm:18.2.17"],\
           ["@types/testing-library__jest-dom", "npm:5.14.9"],\
           ["@typescript-eslint/eslint-plugin", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.13.2"],\
@@ -1962,7 +1962,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@babel/runtime", "npm:7.21.0"],\
           ["@testing-library/dom", "npm:9.0.1"],\
-          ["@types/react", "npm:18.2.38"],\
+          ["@types/react", "npm:18.2.42"],\
           ["@types/react-dom", "npm:18.2.17"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:18.2.0"]\
@@ -2182,10 +2182,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:18.2.38", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-react-npm-18.2.38-1c8ce095c1-10c0.zip/node_modules/@types/react/",\
+      ["npm:18.2.42", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-react-npm-18.2.42-88ab7806ab-10c0.zip/node_modules/@types/react/",\
         "packageDependencies": [\
-          ["@types/react", "npm:18.2.38"],\
+          ["@types/react", "npm:18.2.42"],\
           ["@types/prop-types", "npm:15.7.5"],\
           ["@types/scheduler", "npm:0.16.2"],\
           ["csstype", "npm:3.1.1"]\
@@ -7839,7 +7839,7 @@ const RAW_RUNTIME_STATE =
           ["@opentelemetry/api", null],\
           ["@swc/helpers", "npm:0.5.2"],\
           ["@types/opentelemetry__api", null],\
-          ["@types/react", "npm:18.2.38"],\
+          ["@types/react", "npm:18.2.42"],\
           ["@types/react-dom", "npm:18.2.17"],\
           ["@types/sass", null],\
           ["busboy", "npm:1.6.0"],\
@@ -8804,7 +8804,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/react-dom-virtual-eeabf19d9d/5/cache/others/berry/cache/react-dom-npm-18.2.0-dd675bca1c-10c0.zip/node_modules/react-dom/",\
         "packageDependencies": [\
           ["react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:18.2.0"],\
-          ["@types/react", "npm:18.2.38"],\
+          ["@types/react", "npm:18.2.42"],\
           ["loose-envify", "npm:1.4.0"],\
           ["react", "npm:18.2.0"],\
           ["scheduler", "npm:0.23.0"]\
@@ -9696,7 +9696,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/core", null],\
           ["@types/babel-plugin-macros", null],\
           ["@types/babel__core", null],\
-          ["@types/react", "npm:18.2.38"],\
+          ["@types/react", "npm:18.2.42"],\
           ["babel-plugin-macros", null],\
           ["client-only", "npm:0.0.1"],\
           ["react", "npm:18.2.0"]\
