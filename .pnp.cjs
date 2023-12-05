@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.4"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.10"],\
-          ["@types/node", "npm:20.10.0"],\
+          ["@types/node", "npm:20.10.3"],\
           ["@types/react", "npm:18.2.38"],\
           ["@types/react-dom", "npm:18.2.17"],\
           ["@types/testing-library__jest-dom", "npm:5.14.9"],\
@@ -90,7 +90,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.4"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.10"],\
-          ["@types/node", "npm:20.10.0"],\
+          ["@types/node", "npm:20.10.3"],\
           ["@types/react", "npm:18.2.38"],\
           ["@types/react-dom", "npm:18.2.17"],\
           ["@types/testing-library__jest-dom", "npm:5.14.9"],\
@@ -2144,10 +2144,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:20.10.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.10.0-22577c30ff-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.10.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.10.3-d385a9ec0a-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.10.0"],\
+          ["@types/node", "npm:20.10.3"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
