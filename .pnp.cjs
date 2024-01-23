@@ -26,8 +26,8 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@commitlint/cli", "npm:18.4.3"],\
-          ["@commitlint/config-conventional", "npm:18.4.3"],\
+          ["@commitlint/cli", "npm:18.5.0"],\
+          ["@commitlint/config-conventional", "npm:18.5.0"],\
           ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.7"],\
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.5"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
@@ -84,8 +84,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@alepertu/next-template", "workspace:."],\
-          ["@commitlint/cli", "npm:18.4.3"],\
-          ["@commitlint/config-conventional", "npm:18.4.3"],\
+          ["@commitlint/cli", "npm:18.5.0"],\
+          ["@commitlint/config-conventional", "npm:18.5.0"],\
           ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.7"],\
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.1.5"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
@@ -922,15 +922,15 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@commitlint/cli", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-cli-npm-18.4.3-75cdbd7bf3-10c0.zip/node_modules/@commitlint/cli/",\
+      ["npm:18.5.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-cli-npm-18.5.0-7a197acf3c-10c0.zip/node_modules/@commitlint/cli/",\
         "packageDependencies": [\
-          ["@commitlint/cli", "npm:18.4.3"],\
-          ["@commitlint/format", "npm:18.4.3"],\
-          ["@commitlint/lint", "npm:18.4.3"],\
-          ["@commitlint/load", "npm:18.4.3"],\
-          ["@commitlint/read", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/cli", "npm:18.5.0"],\
+          ["@commitlint/format", "npm:18.4.4"],\
+          ["@commitlint/lint", "npm:18.5.0"],\
+          ["@commitlint/load", "npm:18.5.0"],\
+          ["@commitlint/read", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["execa", "npm:5.1.1"],\
           ["lodash.isfunction", "npm:3.0.9"],\
           ["resolve-from", "npm:5.0.0"],\
@@ -941,32 +941,32 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@commitlint/config-conventional", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-config-conventional-npm-18.4.3-7f80423655-10c0.zip/node_modules/@commitlint/config-conventional/",\
+      ["npm:18.5.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-config-conventional-npm-18.5.0-41c85a334b-10c0.zip/node_modules/@commitlint/config-conventional/",\
         "packageDependencies": [\
-          ["@commitlint/config-conventional", "npm:18.4.3"],\
+          ["@commitlint/config-conventional", "npm:18.5.0"],\
           ["conventional-changelog-conventionalcommits", "npm:7.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/config-validator", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-config-validator-npm-18.4.3-381812aeb8-10c0.zip/node_modules/@commitlint/config-validator/",\
+      ["npm:18.5.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-config-validator-npm-18.5.0-52cd2b36d7-10c0.zip/node_modules/@commitlint/config-validator/",\
         "packageDependencies": [\
-          ["@commitlint/config-validator", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/config-validator", "npm:18.5.0"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["ajv", "npm:8.12.0"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/ensure", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-ensure-npm-18.4.3-67db50f901-10c0.zip/node_modules/@commitlint/ensure/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-ensure-npm-18.4.4-e9a4404026-10c0.zip/node_modules/@commitlint/ensure/",\
         "packageDependencies": [\
-          ["@commitlint/ensure", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/ensure", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["lodash.camelcase", "npm:4.3.0"],\
           ["lodash.kebabcase", "npm:4.1.1"],\
           ["lodash.snakecase", "npm:4.1.1"],\
@@ -977,62 +977,61 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@commitlint/execute-rule", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-execute-rule-npm-18.4.3-015bc74ba9-10c0.zip/node_modules/@commitlint/execute-rule/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-execute-rule-npm-18.4.4-d9423b5542-10c0.zip/node_modules/@commitlint/execute-rule/",\
         "packageDependencies": [\
-          ["@commitlint/execute-rule", "npm:18.4.3"]\
+          ["@commitlint/execute-rule", "npm:18.4.4"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/format", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-format-npm-18.4.3-93b3464b53-10c0.zip/node_modules/@commitlint/format/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-format-npm-18.4.4-cafbf0ab8e-10c0.zip/node_modules/@commitlint/format/",\
         "packageDependencies": [\
-          ["@commitlint/format", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/format", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["chalk", "npm:4.1.2"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/is-ignored", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-is-ignored-npm-18.4.3-23be3efb4d-10c0.zip/node_modules/@commitlint/is-ignored/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-is-ignored-npm-18.4.4-5e86c2f12a-10c0.zip/node_modules/@commitlint/is-ignored/",\
         "packageDependencies": [\
-          ["@commitlint/is-ignored", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/is-ignored", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["semver", "npm:7.5.4"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/lint", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-lint-npm-18.4.3-4a21be3622-10c0.zip/node_modules/@commitlint/lint/",\
+      ["npm:18.5.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-lint-npm-18.5.0-664a1c65db-10c0.zip/node_modules/@commitlint/lint/",\
         "packageDependencies": [\
-          ["@commitlint/lint", "npm:18.4.3"],\
-          ["@commitlint/is-ignored", "npm:18.4.3"],\
-          ["@commitlint/parse", "npm:18.4.3"],\
-          ["@commitlint/rules", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"]\
+          ["@commitlint/lint", "npm:18.5.0"],\
+          ["@commitlint/is-ignored", "npm:18.4.4"],\
+          ["@commitlint/parse", "npm:18.4.4"],\
+          ["@commitlint/rules", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/load", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-load-npm-18.4.3-6cbe9d5abc-10c0.zip/node_modules/@commitlint/load/",\
+      ["npm:18.5.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-load-npm-18.5.0-535f563f8b-10c0.zip/node_modules/@commitlint/load/",\
         "packageDependencies": [\
-          ["@commitlint/load", "npm:18.4.3"],\
-          ["@commitlint/config-validator", "npm:18.4.3"],\
-          ["@commitlint/execute-rule", "npm:18.4.3"],\
-          ["@commitlint/resolve-extends", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
-          ["@types/node", "npm:18.18.13"],\
+          ["@commitlint/load", "npm:18.5.0"],\
+          ["@commitlint/config-validator", "npm:18.5.0"],\
+          ["@commitlint/execute-rule", "npm:18.4.4"],\
+          ["@commitlint/resolve-extends", "npm:18.5.0"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["chalk", "npm:4.1.2"],\
-          ["cosmiconfig", "virtual:6cbe9d5abc8402825e3c9f16672e108565967493029632ea1459a2be5ad2a91fb07e12cc2d5f6c039561deec007cf30c97eaf28e53cde623cf512591238f4e58#npm:8.3.6"],\
-          ["cosmiconfig-typescript-loader", "virtual:6cbe9d5abc8402825e3c9f16672e108565967493029632ea1459a2be5ad2a91fb07e12cc2d5f6c039561deec007cf30c97eaf28e53cde623cf512591238f4e58#npm:5.0.0"],\
+          ["cosmiconfig", "virtual:535f563f8bfb70f0735bf35b1123c65eef2504eca821e951b9e76f6720ce23a90607bcb9afa88831e92e5aea07140d36feea31dc334ecf5f3a7f699ba450e895#npm:8.3.6"],\
+          ["cosmiconfig-typescript-loader", "virtual:535f563f8bfb70f0735bf35b1123c65eef2504eca821e951b9e76f6720ce23a90607bcb9afa88831e92e5aea07140d36feea31dc334ecf5f3a7f699ba450e895#npm:5.0.0"],\
           ["lodash.isplainobject", "npm:4.0.6"],\
           ["lodash.merge", "npm:4.6.2"],\
           ["lodash.uniq", "npm:4.5.0"],\
@@ -1042,20 +1041,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@commitlint/message", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-message-npm-18.4.3-fb5714cc18-10c0.zip/node_modules/@commitlint/message/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-message-npm-18.4.4-c3a0e36550-10c0.zip/node_modules/@commitlint/message/",\
         "packageDependencies": [\
-          ["@commitlint/message", "npm:18.4.3"]\
+          ["@commitlint/message", "npm:18.4.4"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/parse", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-parse-npm-18.4.3-a34ff29f25-10c0.zip/node_modules/@commitlint/parse/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-parse-npm-18.4.4-72240a50df-10c0.zip/node_modules/@commitlint/parse/",\
         "packageDependencies": [\
-          ["@commitlint/parse", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/parse", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["conventional-changelog-angular", "npm:7.0.0"],\
           ["conventional-commits-parser", "npm:5.0.0"]\
         ],\
@@ -1063,13 +1062,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@commitlint/read", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-read-npm-18.4.3-eaeb2ae1e4-10c0.zip/node_modules/@commitlint/read/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-read-npm-18.4.4-6f62ed0d91-10c0.zip/node_modules/@commitlint/read/",\
         "packageDependencies": [\
-          ["@commitlint/read", "npm:18.4.3"],\
-          ["@commitlint/top-level", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
-          ["fs-extra", "npm:11.1.0"],\
+          ["@commitlint/read", "npm:18.4.4"],\
+          ["@commitlint/top-level", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["git-raw-commits", "npm:2.0.11"],\
           ["minimist", "npm:1.2.8"]\
         ],\
@@ -1077,12 +1075,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@commitlint/resolve-extends", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-resolve-extends-npm-18.4.3-701b466f12-10c0.zip/node_modules/@commitlint/resolve-extends/",\
+      ["npm:18.5.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-resolve-extends-npm-18.5.0-7fc9dfe398-10c0.zip/node_modules/@commitlint/resolve-extends/",\
         "packageDependencies": [\
-          ["@commitlint/resolve-extends", "npm:18.4.3"],\
-          ["@commitlint/config-validator", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/resolve-extends", "npm:18.5.0"],\
+          ["@commitlint/config-validator", "npm:18.5.0"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["import-fresh", "npm:3.3.0"],\
           ["lodash.mergewith", "npm:4.6.2"],\
           ["resolve-from", "npm:5.0.0"],\
@@ -1092,43 +1090,43 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@commitlint/rules", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-rules-npm-18.4.3-65b8401453-10c0.zip/node_modules/@commitlint/rules/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-rules-npm-18.4.4-1b903b37ba-10c0.zip/node_modules/@commitlint/rules/",\
         "packageDependencies": [\
-          ["@commitlint/rules", "npm:18.4.3"],\
-          ["@commitlint/ensure", "npm:18.4.3"],\
-          ["@commitlint/message", "npm:18.4.3"],\
-          ["@commitlint/to-lines", "npm:18.4.3"],\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/rules", "npm:18.4.4"],\
+          ["@commitlint/ensure", "npm:18.4.4"],\
+          ["@commitlint/message", "npm:18.4.4"],\
+          ["@commitlint/to-lines", "npm:18.4.4"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["execa", "npm:5.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/to-lines", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-to-lines-npm-18.4.3-5e34ab4f90-10c0.zip/node_modules/@commitlint/to-lines/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-to-lines-npm-18.4.4-240cd054c8-10c0.zip/node_modules/@commitlint/to-lines/",\
         "packageDependencies": [\
-          ["@commitlint/to-lines", "npm:18.4.3"]\
+          ["@commitlint/to-lines", "npm:18.4.4"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/top-level", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-top-level-npm-18.4.3-c7a70a00c4-10c0.zip/node_modules/@commitlint/top-level/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-top-level-npm-18.4.4-c9792baec1-10c0.zip/node_modules/@commitlint/top-level/",\
         "packageDependencies": [\
-          ["@commitlint/top-level", "npm:18.4.3"],\
+          ["@commitlint/top-level", "npm:18.4.4"],\
           ["find-up", "npm:5.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@commitlint/types", [\
-      ["npm:18.4.3", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-types-npm-18.4.3-ea8b01fd3a-10c0.zip/node_modules/@commitlint/types/",\
+      ["npm:18.4.4", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@commitlint-types-npm-18.4.4-c71e2a6ea9-10c0.zip/node_modules/@commitlint/types/",\
         "packageDependencies": [\
-          ["@commitlint/types", "npm:18.4.3"],\
+          ["@commitlint/types", "npm:18.4.4"],\
           ["chalk", "npm:4.1.2"]\
         ],\
         "linkType": "HARD"\
@@ -2166,14 +2164,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-18.14.6-7d0665d471-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
           ["@types/node", "npm:18.14.6"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["npm:18.18.13", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-18.18.13-0af68a09ab-10c0.zip/node_modules/@types/node/",\
-        "packageDependencies": [\
-          ["@types/node", "npm:18.18.13"],\
-          ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -3682,10 +3672,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:6cbe9d5abc8402825e3c9f16672e108565967493029632ea1459a2be5ad2a91fb07e12cc2d5f6c039561deec007cf30c97eaf28e53cde623cf512591238f4e58#npm:8.3.6", {\
-        "packageLocation": "./.yarn/__virtual__/cosmiconfig-virtual-fa308c189e/5/cache/others/berry/cache/cosmiconfig-npm-8.3.6-a5566e2779-10c0.zip/node_modules/cosmiconfig/",\
+      ["virtual:535f563f8bfb70f0735bf35b1123c65eef2504eca821e951b9e76f6720ce23a90607bcb9afa88831e92e5aea07140d36feea31dc334ecf5f3a7f699ba450e895#npm:8.3.6", {\
+        "packageLocation": "./.yarn/__virtual__/cosmiconfig-virtual-aff2514772/5/cache/others/berry/cache/cosmiconfig-npm-8.3.6-a5566e2779-10c0.zip/node_modules/cosmiconfig/",\
         "packageDependencies": [\
-          ["cosmiconfig", "virtual:6cbe9d5abc8402825e3c9f16672e108565967493029632ea1459a2be5ad2a91fb07e12cc2d5f6c039561deec007cf30c97eaf28e53cde623cf512591238f4e58#npm:8.3.6"],\
+          ["cosmiconfig", "virtual:535f563f8bfb70f0735bf35b1123c65eef2504eca821e951b9e76f6720ce23a90607bcb9afa88831e92e5aea07140d36feea31dc334ecf5f3a7f699ba450e895#npm:8.3.6"],\
           ["@types/typescript", null],\
           ["import-fresh", "npm:3.3.0"],\
           ["js-yaml", "npm:4.1.0"],\
@@ -3708,14 +3698,14 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:6cbe9d5abc8402825e3c9f16672e108565967493029632ea1459a2be5ad2a91fb07e12cc2d5f6c039561deec007cf30c97eaf28e53cde623cf512591238f4e58#npm:5.0.0", {\
-        "packageLocation": "./.yarn/__virtual__/cosmiconfig-typescript-loader-virtual-b2a2540ef8/5/cache/others/berry/cache/cosmiconfig-typescript-loader-npm-5.0.0-6462903b70-10c0.zip/node_modules/cosmiconfig-typescript-loader/",\
+      ["virtual:535f563f8bfb70f0735bf35b1123c65eef2504eca821e951b9e76f6720ce23a90607bcb9afa88831e92e5aea07140d36feea31dc334ecf5f3a7f699ba450e895#npm:5.0.0", {\
+        "packageLocation": "./.yarn/__virtual__/cosmiconfig-typescript-loader-virtual-cd080b5a0b/5/cache/others/berry/cache/cosmiconfig-typescript-loader-npm-5.0.0-6462903b70-10c0.zip/node_modules/cosmiconfig-typescript-loader/",\
         "packageDependencies": [\
-          ["cosmiconfig-typescript-loader", "virtual:6cbe9d5abc8402825e3c9f16672e108565967493029632ea1459a2be5ad2a91fb07e12cc2d5f6c039561deec007cf30c97eaf28e53cde623cf512591238f4e58#npm:5.0.0"],\
+          ["cosmiconfig-typescript-loader", "virtual:535f563f8bfb70f0735bf35b1123c65eef2504eca821e951b9e76f6720ce23a90607bcb9afa88831e92e5aea07140d36feea31dc334ecf5f3a7f699ba450e895#npm:5.0.0"],\
           ["@types/cosmiconfig", null],\
-          ["@types/node", "npm:18.18.13"],\
+          ["@types/node", null],\
           ["@types/typescript", null],\
-          ["cosmiconfig", "virtual:6cbe9d5abc8402825e3c9f16672e108565967493029632ea1459a2be5ad2a91fb07e12cc2d5f6c039561deec007cf30c97eaf28e53cde623cf512591238f4e58#npm:8.3.6"],\
+          ["cosmiconfig", "virtual:535f563f8bfb70f0735bf35b1123c65eef2504eca821e951b9e76f6720ce23a90607bcb9afa88831e92e5aea07140d36feea31dc334ecf5f3a7f699ba450e895#npm:8.3.6"],\
           ["jiti", "npm:1.21.0"],\
           ["typescript", null]\
         ],\
@@ -5201,18 +5191,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/fraction.js-npm-4.3.6-233f81170c-10c0.zip/node_modules/fraction.js/",\
         "packageDependencies": [\
           ["fraction.js", "npm:4.3.6"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["fs-extra", [\
-      ["npm:11.1.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/fs-extra-npm-11.1.0-2cd157426f-10c0.zip/node_modules/fs-extra/",\
-        "packageDependencies": [\
-          ["fs-extra", "npm:11.1.0"],\
-          ["graceful-fs", "npm:4.2.10"],\
-          ["jsonfile", "npm:6.1.0"],\
-          ["universalify", "npm:2.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -7203,17 +7181,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/json5-npm-2.2.3-9962c55073-10c0.zip/node_modules/json5/",\
         "packageDependencies": [\
           ["json5", "npm:2.2.3"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["jsonfile", [\
-      ["npm:6.1.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/jsonfile-npm-6.1.0-20a4796cee-10c0.zip/node_modules/jsonfile/",\
-        "packageDependencies": [\
-          ["jsonfile", "npm:6.1.0"],\
-          ["graceful-fs", "npm:4.2.10"],\
-          ["universalify", "npm:2.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -10355,13 +10322,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/universalify-npm-0.2.0-9984e61c10-10c0.zip/node_modules/universalify/",\
         "packageDependencies": [\
           ["universalify", "npm:0.2.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/universalify-npm-2.0.0-03b8b418a8-10c0.zip/node_modules/universalify/",\
-        "packageDependencies": [\
-          ["universalify", "npm:2.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
