@@ -47,7 +47,7 @@ const RAW_RUNTIME_STATE =
           ["husky", "npm:9.0.7"],\
           ["jest", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
           ["jest-environment-jsdom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
-          ["lint-staged", "npm:15.2.0"],\
+          ["lint-staged", "npm:15.2.2"],\
           ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.0"],\
           ["pinst", "npm:3.0.0"],\
           ["postcss", "npm:8.4.33"],\
@@ -105,7 +105,7 @@ const RAW_RUNTIME_STATE =
           ["husky", "npm:9.0.7"],\
           ["jest", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
           ["jest-environment-jsdom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
-          ["lint-staged", "npm:15.2.0"],\
+          ["lint-staged", "npm:15.2.2"],\
           ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.0"],\
           ["pinst", "npm:3.0.0"],\
           ["postcss", "npm:8.4.33"],\
@@ -7299,16 +7299,16 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lint-staged", [\
-      ["npm:15.2.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/lint-staged-npm-15.2.0-2aacd96825-10c0.zip/node_modules/lint-staged/",\
+      ["npm:15.2.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/lint-staged-npm-15.2.2-da1e8ea74f-10c0.zip/node_modules/lint-staged/",\
         "packageDependencies": [\
-          ["lint-staged", "npm:15.2.0"],\
+          ["lint-staged", "npm:15.2.2"],\
           ["chalk", "npm:5.3.0"],\
           ["commander", "npm:11.1.0"],\
           ["debug", "virtual:1ff4b5f90832ba0a9c93ba1223af226e44ba70c1126a3740d93562b97bc36544e896a5e95908196f7458713e6a6089a34bfc67362fc6df7fa093bd06c878be47#npm:4.3.4"],\
           ["execa", "npm:8.0.1"],\
           ["lilconfig", "npm:3.0.0"],\
-          ["listr2", "npm:8.0.0"],\
+          ["listr2", "npm:8.0.1"],\
           ["micromatch", "npm:4.0.5"],\
           ["pidtree", "npm:0.6.0"],\
           ["string-argv", "npm:0.3.2"],\
@@ -7318,10 +7318,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["listr2", [\
-      ["npm:8.0.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/listr2-npm-8.0.0-24640e7d69-10c0.zip/node_modules/listr2/",\
+      ["npm:8.0.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/listr2-npm-8.0.1-634f89e3e8-10c0.zip/node_modules/listr2/",\
         "packageDependencies": [\
-          ["listr2", "npm:8.0.0"],\
+          ["listr2", "npm:8.0.1"],\
           ["cli-truncate", "npm:4.0.0"],\
           ["colorette", "npm:2.0.20"],\
           ["eventemitter3", "npm:5.0.1"],\
