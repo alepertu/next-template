@@ -44,7 +44,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:9.1.0"],\
           ["eslint-plugin-simple-import-sort", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.0.0"],\
           ["eslint-plugin-unused-imports", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:3.0.0"],\
-          ["husky", "npm:9.0.7"],\
+          ["husky", "npm:9.1.7"],\
           ["jest", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
           ["jest-environment-jsdom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
           ["lint-staged", "npm:15.2.0"],\
@@ -102,7 +102,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:9.1.0"],\
           ["eslint-plugin-simple-import-sort", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.0.0"],\
           ["eslint-plugin-unused-imports", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:3.0.0"],\
-          ["husky", "npm:9.0.7"],\
+          ["husky", "npm:9.1.7"],\
           ["jest", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
           ["jest-environment-jsdom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:29.7.0"],\
           ["lint-staged", "npm:15.2.0"],\
@@ -5767,10 +5767,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["husky", [\
-      ["npm:9.0.7", {\
-        "packageLocation": "../../../../cache/others/berry/cache/husky-npm-9.0.7-b26fc41da3-10c0.zip/node_modules/husky/",\
+      ["npm:9.1.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/husky-npm-9.1.7-5b02eaabc4-10c0.zip/node_modules/husky/",\
         "packageDependencies": [\
-          ["husky", "npm:9.0.7"]\
+          ["husky", "npm:9.1.7"]\
         ],\
         "linkType": "HARD"\
       }]\
