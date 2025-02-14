@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.3.0"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.11"],\
-          ["@types/node", "npm:20.11.10"],\
+          ["@types/node", "npm:20.17.19"],\
           ["@types/react", "npm:18.2.48"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["@types/testing-library__jest-dom", "npm:5.14.9"],\
@@ -90,7 +90,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.3.0"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.11"],\
-          ["@types/node", "npm:20.11.10"],\
+          ["@types/node", "npm:20.17.19"],\
           ["@types/react", "npm:18.2.48"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["@types/testing-library__jest-dom", "npm:5.14.9"],\
@@ -2169,11 +2169,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:20.11.10", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.11.10-169269fe65-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.17.19", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.17.19-aab58c5bbd-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.11.10"],\
-          ["undici-types", "npm:5.26.5"]\
+          ["@types/node", "npm:20.17.19"],\
+          ["undici-types", "npm:6.19.8"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -10291,10 +10291,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici-types", [\
-      ["npm:5.26.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-5.26.5-de4f7c7bb9-10c0.zip/node_modules/undici-types/",\
+      ["npm:6.19.8", {\
+        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-6.19.8-9f12285b7a-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:5.26.5"]\
+          ["undici-types", "npm:6.19.8"]\
         ],\
         "linkType": "HARD"\
       }]\
