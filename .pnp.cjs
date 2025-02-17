@@ -52,7 +52,7 @@ const RAW_RUNTIME_STATE =
           ["pinst", "npm:3.0.0"],\
           ["postcss", "npm:8.4.33"],\
           ["prettier", "npm:3.2.4"],\
-          ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.11"],\
+          ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.6.11"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:19.0.0"],\
           ["tailwindcss", "npm:3.4.1"],\
@@ -110,7 +110,7 @@ const RAW_RUNTIME_STATE =
           ["pinst", "npm:3.0.0"],\
           ["postcss", "npm:8.4.33"],\
           ["prettier", "npm:3.2.4"],\
-          ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.11"],\
+          ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.6.11"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:19.0.0"],\
           ["tailwindcss", "npm:3.4.1"],\
@@ -8648,17 +8648,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier-plugin-tailwindcss", [\
-      ["npm:0.5.11", {\
-        "packageLocation": "../../../../cache/others/berry/cache/prettier-plugin-tailwindcss-npm-0.5.11-d8f5008d68-10c0.zip/node_modules/prettier-plugin-tailwindcss/",\
+      ["npm:0.6.11", {\
+        "packageLocation": "../../../../cache/others/berry/cache/prettier-plugin-tailwindcss-npm-0.6.11-c1d468e221-10c0.zip/node_modules/prettier-plugin-tailwindcss/",\
         "packageDependencies": [\
-          ["prettier-plugin-tailwindcss", "npm:0.5.11"]\
+          ["prettier-plugin-tailwindcss", "npm:0.6.11"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.11", {\
-        "packageLocation": "./.yarn/__virtual__/prettier-plugin-tailwindcss-virtual-3820fffe30/5/cache/others/berry/cache/prettier-plugin-tailwindcss-npm-0.5.11-d8f5008d68-10c0.zip/node_modules/prettier-plugin-tailwindcss/",\
+      ["virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.6.11", {\
+        "packageLocation": "./.yarn/__virtual__/prettier-plugin-tailwindcss-virtual-ed0e25aed5/5/cache/others/berry/cache/prettier-plugin-tailwindcss-npm-0.6.11-c1d468e221-10c0.zip/node_modules/prettier-plugin-tailwindcss/",\
         "packageDependencies": [\
-          ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.11"],\
+          ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.6.11"],\
           ["@ianvs/prettier-plugin-sort-imports", null],\
           ["@prettier/plugin-pug", null],\
           ["@shopify/prettier-plugin-liquid", null],\
@@ -8670,25 +8670,29 @@ const RAW_RUNTIME_STATE =
           ["@types/prettier-plugin-import-sort", null],\
           ["@types/prettier-plugin-jsdoc", null],\
           ["@types/prettier-plugin-marko", null],\
+          ["@types/prettier-plugin-multiline-arrays", null],\
           ["@types/prettier-plugin-organize-attributes", null],\
           ["@types/prettier-plugin-organize-imports", null],\
+          ["@types/prettier-plugin-sort-imports", null],\
           ["@types/prettier-plugin-style-order", null],\
           ["@types/prettier-plugin-svelte", null],\
-          ["@types/prettier-plugin-twig-melody", null],\
           ["@types/prettier__plugin-pug", null],\
           ["@types/shopify__prettier-plugin-liquid", null],\
           ["@types/trivago__prettier-plugin-sort-imports", null],\
+          ["@types/zackad__prettier-plugin-twig", null],\
+          ["@zackad/prettier-plugin-twig", null],\
           ["prettier", "npm:3.2.4"],\
           ["prettier-plugin-astro", null],\
           ["prettier-plugin-css-order", null],\
           ["prettier-plugin-import-sort", null],\
           ["prettier-plugin-jsdoc", null],\
           ["prettier-plugin-marko", null],\
+          ["prettier-plugin-multiline-arrays", null],\
           ["prettier-plugin-organize-attributes", null],\
           ["prettier-plugin-organize-imports", null],\
+          ["prettier-plugin-sort-imports", null],\
           ["prettier-plugin-style-order", null],\
-          ["prettier-plugin-svelte", null],\
-          ["prettier-plugin-twig-melody", null]\
+          ["prettier-plugin-svelte", null]\
         ],\
         "packagePeers": [\
           "@ianvs/prettier-plugin-sort-imports",\
@@ -8701,25 +8705,29 @@ const RAW_RUNTIME_STATE =
           "@types/prettier-plugin-import-sort",\
           "@types/prettier-plugin-jsdoc",\
           "@types/prettier-plugin-marko",\
+          "@types/prettier-plugin-multiline-arrays",\
           "@types/prettier-plugin-organize-attributes",\
           "@types/prettier-plugin-organize-imports",\
+          "@types/prettier-plugin-sort-imports",\
           "@types/prettier-plugin-style-order",\
           "@types/prettier-plugin-svelte",\
-          "@types/prettier-plugin-twig-melody",\
           "@types/prettier",\
           "@types/prettier__plugin-pug",\
           "@types/shopify__prettier-plugin-liquid",\
           "@types/trivago__prettier-plugin-sort-imports",\
+          "@types/zackad__prettier-plugin-twig",\
+          "@zackad/prettier-plugin-twig",\
           "prettier-plugin-astro",\
           "prettier-plugin-css-order",\
           "prettier-plugin-import-sort",\
           "prettier-plugin-jsdoc",\
           "prettier-plugin-marko",\
+          "prettier-plugin-multiline-arrays",\
           "prettier-plugin-organize-attributes",\
           "prettier-plugin-organize-imports",\
+          "prettier-plugin-sort-imports",\
           "prettier-plugin-style-order",\
           "prettier-plugin-svelte",\
-          "prettier-plugin-twig-melody",\
           "prettier"\
         ],\
         "linkType": "HARD"\
