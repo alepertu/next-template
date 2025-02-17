@@ -28,7 +28,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@commitlint/cli", "npm:18.6.1"],\
           ["@commitlint/config-conventional", "npm:18.6.3"],\
-          ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.7"],\
+          ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.10"],\
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.3.0"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.11"],\
@@ -86,7 +86,7 @@ const RAW_RUNTIME_STATE =
           ["@alepertu/next-template", "workspace:."],\
           ["@commitlint/cli", "npm:18.6.1"],\
           ["@commitlint/config-conventional", "npm:18.6.3"],\
-          ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.7"],\
+          ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.10"],\
           ["@testing-library/jest-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:6.3.0"],\
           ["@testing-library/react", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.2"],\
           ["@types/jest", "npm:29.5.11"],\
@@ -1903,17 +1903,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@tailwindcss/forms", [\
-      ["npm:0.5.7", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@tailwindcss-forms-npm-0.5.7-67f8a9f248-10c0.zip/node_modules/@tailwindcss/forms/",\
+      ["npm:0.5.10", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@tailwindcss-forms-npm-0.5.10-73698b17d7-10c0.zip/node_modules/@tailwindcss/forms/",\
         "packageDependencies": [\
-          ["@tailwindcss/forms", "npm:0.5.7"]\
+          ["@tailwindcss/forms", "npm:0.5.10"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.7", {\
-        "packageLocation": "./.yarn/__virtual__/@tailwindcss-forms-virtual-cc15de389e/5/cache/others/berry/cache/@tailwindcss-forms-npm-0.5.7-67f8a9f248-10c0.zip/node_modules/@tailwindcss/forms/",\
+      ["virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.10", {\
+        "packageLocation": "./.yarn/__virtual__/@tailwindcss-forms-virtual-72d370dc33/5/cache/others/berry/cache/@tailwindcss-forms-npm-0.5.10-73698b17d7-10c0.zip/node_modules/@tailwindcss/forms/",\
         "packageDependencies": [\
-          ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.7"],\
+          ["@tailwindcss/forms", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.5.10"],\
           ["@types/tailwindcss", null],\
           ["mini-svg-data-uri", "npm:1.4.4"],\
           ["tailwindcss", "npm:3.4.1"]\
