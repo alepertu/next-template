@@ -36,7 +36,7 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:22.13.4"],\
           ["@types/react", "npm:19.0.10"],\
           ["@types/react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:19.0.4"],\
-          ["@types/testing-library__jest-dom", "npm:5.14.9"],\
+          ["@types/testing-library__jest-dom", "npm:6.0.0"],\
           ["@typescript-eslint/eslint-plugin", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:8.24.1"],\
           ["@typescript-eslint/parser", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:8.24.1"],\
           ["autoprefixer", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.4.20"],\
@@ -94,7 +94,7 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:22.13.4"],\
           ["@types/react", "npm:19.0.10"],\
           ["@types/react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:19.0.4"],\
-          ["@types/testing-library__jest-dom", "npm:5.14.9"],\
+          ["@types/testing-library__jest-dom", "npm:6.0.0"],\
           ["@typescript-eslint/eslint-plugin", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:8.24.1"],\
           ["@typescript-eslint/parser", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:8.24.1"],\
           ["autoprefixer", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:10.4.20"],\
@@ -2190,11 +2190,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/testing-library__jest-dom", [\
-      ["npm:5.14.9", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-testing-library__jest-dom-npm-5.14.9-319d22d764-10c0.zip/node_modules/@types/testing-library__jest-dom/",\
+      ["npm:6.0.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-testing-library__jest-dom-npm-6.0.0-bbabcfc8e9-10c0.zip/node_modules/@types/testing-library__jest-dom/",\
         "packageDependencies": [\
-          ["@types/testing-library__jest-dom", "npm:5.14.9"],\
-          ["@types/jest", "npm:29.5.14"]\
+          ["@types/testing-library__jest-dom", "npm:6.0.0"],\
+          ["@testing-library/jest-dom", "npm:6.6.3"]\
         ],\
         "linkType": "HARD"\
       }]\
