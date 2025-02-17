@@ -22,7 +22,7 @@
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
-  "packageManager": "yarn@4.0.2",
+  "packageManager": "yarn@4.6.0",
   "devDependencies": {
     "@commitlint/cli": "^18.0.0",
     "@commitlint/config-conventional": "^18.0.0",
