@@ -51,7 +51,7 @@ const RAW_RUNTIME_STATE =
           ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.0"],\
           ["pinst", "npm:3.0.0"],\
           ["postcss", "npm:8.5.2"],\
-          ["prettier", "npm:3.2.4"],\
+          ["prettier", "npm:3.5.1"],\
           ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.6.11"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:19.0.0"],\
@@ -109,7 +109,7 @@ const RAW_RUNTIME_STATE =
           ["next", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:14.1.0"],\
           ["pinst", "npm:3.0.0"],\
           ["postcss", "npm:8.5.2"],\
-          ["prettier", "npm:3.2.4"],\
+          ["prettier", "npm:3.5.1"],\
           ["prettier-plugin-tailwindcss", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:0.6.11"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:d7b455f2618bc9bf4cca7d2943a35979380418f7661da8f95208cf8db4900a35ade7c006791373e539d135c6818a2bfa500932a7ba9f26d1d7bee172074f181f#npm:19.0.0"],\
@@ -8816,10 +8816,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier", [\
-      ["npm:3.2.4", {\
-        "packageLocation": "./.yarn/unplugged/prettier-npm-3.2.4-3ca24592c3/node_modules/prettier/",\
+      ["npm:3.5.1", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.5.1-8b3bcecc5a/node_modules/prettier/",\
         "packageDependencies": [\
-          ["prettier", "npm:3.2.4"]\
+          ["prettier", "npm:3.5.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -8858,7 +8858,7 @@ const RAW_RUNTIME_STATE =
           ["@types/trivago__prettier-plugin-sort-imports", null],\
           ["@types/zackad__prettier-plugin-twig", null],\
           ["@zackad/prettier-plugin-twig", null],\
-          ["prettier", "npm:3.2.4"],\
+          ["prettier", "npm:3.5.1"],\
           ["prettier-plugin-astro", null],\
           ["prettier-plugin-css-order", null],\
           ["prettier-plugin-import-sort", null],\
